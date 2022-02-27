@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development (php, javascript) :)
 - 🌱 I’m currently learning symfony/react
 
-Nothing to see here now... :/
+Nothing to see here yet... :/
 
 <!---
 janbartik/janbartik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
