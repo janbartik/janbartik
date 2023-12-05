@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @janbartik
-
-Sorry, but nothing to see here yet... :/
+- 👋 Hi, I’m @janbartik ...
 
 <!---
 janbartik/janbartik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
