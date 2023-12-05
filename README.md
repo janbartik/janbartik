@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @janbartik
-- 👀 I’m interested in web development (php, javascript) :)
-- 🌱 I’m currently learning symfony/react
 
 Sorry, but nothing to see here yet... :/
 
